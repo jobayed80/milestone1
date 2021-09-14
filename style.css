@@ -1,0 +1,73 @@
+h1{
+    color: brown;
+    background-color: darkolivegreen;
+}
+p{
+    color: whitesmoke;
+    background-color: darkslategrey;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sadia{
+    color: turquoise;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: monospace;
+}
+.diu{
+    color: rgb(240, 9, 9);
+   
+    font-size: 80px;
+    
+}
+.friend{
+    color: white;
+    background-color: darkgreen;
+    font-weight: bold;
+    font-family: fantasy;
+}
+.neighbor{
+    background-color: black;
+
+}
+.blog{
+    background-color: slategray;
+    color: tomato;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+
+}
+h4{
+    text-align: center;
+}
+.blog{
+    border: 5px solid purple;
+    border-radius: 30px;
+    margin: 10px 20px; 
+    /* 1st part top and bottom . last part left and right*/
+    padding: 20px 200px;
+    display: inline-block;
+    
+    /* top right bottom left when border value 4 */
+    /*Another way
+    border: 10px solid purple;
+    width: 500px;
+    height : 300px;
+    padding: 20px;
+    margin:20px;   */
+}
+.bl{
+    color: skyblue;
+    background-color: slategray;
+}
+h3.friend{
+    font-size: 80px;
+    
+}
+img{
+    
+    width: 50%;   
+    height: 700px;
+}
